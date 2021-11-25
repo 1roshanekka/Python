@@ -17,6 +17,10 @@ print(3)
 print(4)
 print(5)
 ```
+```python
+for i in range(1,6):
+    print(i)
+```
 ---
 ![Image of PPA1](ImagePPA1.png)
 
